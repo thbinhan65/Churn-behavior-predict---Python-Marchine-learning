@@ -61,12 +61,14 @@ This project focuses on analyzing churned users of an e-commerce company to iden
 - Data Visualization Libraries ( Matplotlib, Seaborn )
 
 ## Execution Process:
-- **Data Collection:** Load the churn_predict.csv dataset.
-- **Data Cleaning:** Preprocess the data for analysis and modeling.
-- **Exploratory Data Analysis:** Identify patterns and behaviors of churned users.
-- **Model Development:** Build and fine-tune the machine learning model for churn prediction.
-- **Segmentation:** Classify churned users into groups and analyze differences.
-- **Recommendations:** Provide actionable insights and promotional strategies based on analysis.
+- Data Collection: Load the churn_predict.csv dataset.
+- Data Cleaning: Process the data for analysis and modeling.
+- Segmentation: Classify churned customers into groups and analyze the differences.
+- Exploratory Data Analysis: Identify patterns and behaviors of churned customers.
+- Feature Engineering: Create and calculate necessary features for analysis and evaluation.
+- Model Development: Build and fine-tune machine learning models to predict churn.
+- Model Application and Evaluation: Apply machine learning models such as K-means, Hierarchical Clustering, and F1 Score to evaluate the model on the training set and apply it to the test set.
+- Recommendations: Provide useful insights and promotional strategies based on the analysis.
 
 ## Results Achieved:
 - Identified significant patterns in the behavior of churned users.
