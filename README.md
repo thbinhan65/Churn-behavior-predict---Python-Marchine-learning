@@ -6,14 +6,14 @@ This project focuses on analyzing churned users of an e-commerce company to iden
 
 ## Project Objectives:
 
-### 1. Analyze Churned Users:**
+### 1. Analyze Churned Users:
    - Identify patterns and behaviors of churned users.
    - Provide suggestions to the company for reducing churn.
 
-### 2. Build a Machine Learning Model:**
+### 2. Build a Machine Learning Model:
    - Develop a predictive model for churned users, including fine-tuning for optimal performance.
 
-### 3. Segment Churned Users:**
+### 3. Segment Churned Users:
    - Classify churned users into distinct groups based on their behaviors.
    - Analyze differences between these groups to inform promotional strategies.
 
