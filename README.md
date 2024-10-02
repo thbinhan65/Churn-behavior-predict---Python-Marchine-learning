@@ -4,7 +4,7 @@
 
 This project focuses on analyzing churned users of an e-commerce company to identify patterns in their behavior and develop strategies to reduce churn. The dataset provided (churn_predict.csv) will be utilized to understand user behavior, build a machine learning model for predicting churn, and segment churned users for targeted promotions.
 
-## Project Objectives:
+## Objectives:
 
 ### 1. Analyze Churned Users:
    - Identify patterns and behaviors of churned users.
